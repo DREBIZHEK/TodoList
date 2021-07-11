@@ -1,0 +1,7 @@
+C:\Users\bogda\source\repos\TodoList\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\TodoList\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\TodoList\Models\bin\Debug\Models.dll.config
+C:\Users\bogda\source\repos\TodoList\Models\bin\Debug\Models.dll
+C:\Users\bogda\source\repos\TodoList\Models\bin\Debug\Models.pdb
+C:\Users\bogda\source\repos\TodoList\Models\obj\Debug\Models.dll
+C:\Users\bogda\source\repos\TodoList\Models\obj\Debug\Models.pdb

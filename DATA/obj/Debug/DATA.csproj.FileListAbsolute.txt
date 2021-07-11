@@ -1,0 +1,13 @@
+C:\Users\bogda\source\repos\TodoList\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\TodoList\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\DATA.pdb
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\Entities.pdb
+C:\Users\bogda\source\repos\TodoList\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\bogda\source\repos\TodoList\DATA\obj\Debug\DATA.pdb
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\DATA.dll.config
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\DATA.dll
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\Entities.dll
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\Entities.dll.config
+C:\Users\bogda\source\repos\TodoList\DATA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bogda\source\repos\TodoList\DATA\obj\Debug\DATA.dll
